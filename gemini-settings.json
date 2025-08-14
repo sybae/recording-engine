@@ -1,0 +1,15 @@
+{
+  "theme": "Ayu Light",
+  "selectedAuthType": "oauth-personal",
+  "mcpServers": {
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    }
+  },
+  "ideMode": true,
+  "hasSeenIdeIntegrationNudge": true
+}
